@@ -1,0 +1,18 @@
+{
+  "name": "is-disposable-email",
+  "version": "0.0.1",
+  "repository": "https://github.com/ivolo/is-disposable-email.git",
+    "keywords": [
+    "email",
+    "disposable",
+    "validate",
+    "fake"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "disposable-email-domains": "*"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1"
+  }
+}
